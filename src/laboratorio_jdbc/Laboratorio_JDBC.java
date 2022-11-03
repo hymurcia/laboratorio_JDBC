@@ -12,10 +12,10 @@ import javax.swing.JOptionPane;
 public class Laboratorio_JDBC {
 
     public static void main(String[] args) {
-        conection();
+        connection();
     }
 
-    public static void conection() {
+    public static void connection() {
         try {
 
             //Comprobacion de Driver
